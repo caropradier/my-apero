@@ -3,6 +3,7 @@ author:
 categories:
 date: "2023-07-03"
 draft: false
+featured: true
 excerpt: 
 layout: single
 links:
