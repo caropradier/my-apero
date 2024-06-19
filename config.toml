@@ -149,7 +149,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/"
+    url = "/cv/CV_Pradier_github.pdf"
     weight = 5
 
   # Configure footer
