@@ -5,7 +5,7 @@ action_type: text
 description: I'm a PhD Student at the École de bibliothéconomie et des sciences de l'information (Université de Montréal). I work on bibliometric analysis of gender inequalities in science
 image_left: true
 images:
-- img/revoir.jpg
+- img/camuf.jpg
 show_action_link: true
 show_social_links: true
 subtitle: 
