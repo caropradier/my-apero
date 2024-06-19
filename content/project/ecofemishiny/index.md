@@ -20,7 +20,7 @@ tags:
 title: ecofemidata shinyapp
 ---
 
-![Tachyons Logo Script](Ecofemidata_logo.png)
+![ecofemidata app](Ecofemidata_logo.png)
 
 
 ---
