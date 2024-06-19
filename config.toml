@@ -111,6 +111,10 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://x.com/caro_pradier"
   [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com.ar/citations?user=stAvV4MAAAAJ&hl=es"
+  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0009-0007-5058-6352"
