@@ -1,6 +1,7 @@
 ---
 title: Teaching
 layout: single
+date: "2024-06-01"
 ---
 
 

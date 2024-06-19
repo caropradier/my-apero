@@ -1,9 +1,9 @@
 ---
 ## Configure page content in wide column
 title: "About me" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+number_featured: 2 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   I'm a PhD Student at the École de Bibliothéconomie et des Sciences de l’Information (Université de Montréal), researching gender inequalities in science through bibliometrics. My work aims to uncover how these disparities shape scientific knowledge.
