@@ -1,17 +1,17 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "About me" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
-use_featured: false # if false, use most recent by date
+use_featured: true # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  I'm a PhD Student at the École de Bibliothéconomie et des Sciences de l’Information (Université de Montréal), researching gender inequalities in science through bibliometrics. My work aims to uncover how these disparities shape scientific knowledge.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  I hold a degree in Economics and an MSc in Labour Studies from the University of Buenos Aires, Argentina. As a member of Ecofeminita, I help promote gender equality by sharing data, statistics and academic content. I also contribute to rOpenSci and maintain the eph R package.
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+ <b>Research interests</b> <br> Science of Science | Gender inequalities | The topic space of science
 ---
 
 ** index doesn't contain a body, just front matter above.

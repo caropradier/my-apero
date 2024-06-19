@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I'm a PhD Student at the École de bibliothéconomie et des sciences de l'information (Université de Montréal). I work on bibliometric analysis of gender inequalities in science
+description: I'm a PhD Student at the École de bibliothéconomie et des sciences de l'information (Université de Montréal). <br> I study gender inequalities in science.
 image_left: true
 images:
 - img/camuf.jpg
