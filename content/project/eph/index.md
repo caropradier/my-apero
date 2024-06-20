@@ -19,6 +19,7 @@ links:
 subtitle: An R Package
 tags:
 - R
+- package
 title: eph
 ---
 

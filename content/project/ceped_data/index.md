@@ -17,6 +17,7 @@ links:
 subtitle: A shinyapp
 tags:
 - R
+- shinyapps
 title: ceped-data
 ---
 
@@ -25,7 +26,7 @@ title: ceped-data
 
 ---
 
-### Long-Term Trends in Labor Market and Income Data
+### Long-Term Trends in Labor Market and Income Data.
 
 This app provides an interactive platform to explore historical changes and patterns in labor market and income data, making complex information accessible and understandable for users.
 

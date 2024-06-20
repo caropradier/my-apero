@@ -18,6 +18,7 @@ links:
 subtitle: A shinyapp
 tags:
 - R
+- shinyapps
 title: ecofemidata shinyapp
 ---
 
@@ -26,7 +27,7 @@ title: ecofemidata shinyapp
 
 ---
 
-### Explore gender inequalities
+### Explore gender inequalities.
 
 This app provides easy access to information on gender inequalities in the labor market, the distribution of unpaid labor, and income inequality. This interactive tool aims to raise awareness and favour data-driven discussions on these critical issues.
 
