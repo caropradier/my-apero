@@ -16,6 +16,16 @@ date: "2024-06-01"
 
 - [**Kennedy, D., Pradier, C. & Weksler, G. (2020).**](https://publicaciones.sociales.uba.ar/index.php/lavboratorio/article/view/5262) En torno a la diferenciación de las condiciones de reproducción de la fuerza de trabajo según atributos productivos. Evidencias preliminares en la Argentina actual (2016-2019). *Lavboratorio. Revista de Estudios sobre Cambio Estructural y Desigualdad Social*, (30), 112-137. ISSN: 1852-4435
 
+#### Under review
+
+- [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://arxiv.org/abs/2407.18783) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Sent: 16/07/2024.*
+
+- [**Benz, P., Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://doi.org/10.31235/osf.io/3nad9) Mapping the Unseen in Practice: Comparing Latent Dirichlet Allocation and BERTopic for Navigating Topic Spaces.  *Sent: 03/08/2024.*
+
+- [**Céspedes, L., Kozlowski, D., Pradier, C., Holmberg Sainte-Marie, M., Shokida, N. S., Benz, P., Poitras, C., Boudreau Ninkov, A., Ebrahimy, S., Ayeni, P., Filali, S., Li, B. & Larivière, V. (2024).**](https://arxiv.org/abs/2409.10633) Evaluating the Linguistic Coverage of OpenAlex: An Assessment of Metadata Accuracy and Completeness. *Sent: 19/09/2024.*
+
+
+
 ### Book Chapters
 
 - [**Pradier, C. (2023).**](https://biblio.unaj.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=10071) El trabajo invisible. Sesgos de género en la medición del producto y el análisis del mercado de trabajo In Graña, J. (Ed.) *Cuentas Nacionales e indicadores socioeconómicos: metodoloǵıas, debates cŕıticos y aplicaciones a la econoḿıa argentina* (pp. 385-400). Florencio Varela: CONUSUR.
