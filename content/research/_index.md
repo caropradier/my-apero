@@ -8,6 +8,9 @@ date: "2024-06-01"
 
 ### Journal Articles
 
+- [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24972) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Journal of the Association for Information Science and Technology*, 1–13. https://doi.org/10.1002/asi.24972 <br>
+<small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/latam_app/)</small>
+
 - [**Kennedy, D., Lastra, F. & Pradier, C. (2024).**](https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe163) Las condiciones de reproducción de la fuerza de trabajo argentina. Un análisis preliminar del v́ınculo entre el gasto de los hogares y la inserción laboral de sus miembros a partir de los datos de la ENGHo (2017-2018). *Revista Cuestiones de Sociología*, (29), e163. ISSN: 2346-8904
 
 - [**Kennedy, D., Pradier, C. & Weksler, G. (2023).**](https://www.sociohistorica.fahce.unlp.edu.ar/article/view/she208) Expresiones de la venta de la fuerza de trabajo argentina por debajo de su valor (2016-2019). Insuficiencia de ingresos según atributos productivos y déficits en la inserción laboral. *Sociohistórica*, (52), e208. ISSN: 1852-1606
@@ -17,8 +20,6 @@ date: "2024-06-01"
 - [**Kennedy, D., Pradier, C. & Weksler, G. (2020).**](https://publicaciones.sociales.uba.ar/index.php/lavboratorio/article/view/5262) En torno a la diferenciación de las condiciones de reproducción de la fuerza de trabajo según atributos productivos. Evidencias preliminares en la Argentina actual (2016-2019). *Lavboratorio. Revista de Estudios sobre Cambio Estructural y Desigualdad Social*, (30), 112-137. ISSN: 1852-4435
 
 #### Under review
-
-- [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://arxiv.org/abs/2407.18783) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Sent: 16/07/2024.*
 
 - [**Benz, P., Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://doi.org/10.31235/osf.io/3nad9) Mapping the Unseen in Practice: Comparing Latent Dirichlet Allocation and BERTopic for Navigating Topic Spaces.  *Sent: 03/08/2024.*
 
