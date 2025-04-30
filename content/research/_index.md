@@ -8,6 +8,8 @@ date: "2024-06-01"
 
 ### Journal Articles
 
+- [**Céspedes, L., Kozlowski, D., Pradier, C., Holmberg Sainte-Marie, M., Shokida, N. S., Benz, P., Poitras, C., Boudreau Ninkov, A., Ebrahimy, S., Ayeni, P., Filali, S., Li, B. & Larivière, V. (2024).**](http://doi.org/10.1002/asi.24979) Evaluating the Linguistic Coverage of OpenAlex: An Assessment of Metadata Accuracy and Completeness. *Journal of the Association for Information Science and Technology*, 1–12. http://doi.org/10.1002/asi.24979
+
 - [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24972) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Journal of the Association for Information Science and Technology*, 1–13. https://doi.org/10.1002/asi.24972 <br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/latam_app/)</small>
 
@@ -21,10 +23,12 @@ date: "2024-06-01"
 
 #### Under review
 
-- [**Benz, P., Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://doi.org/10.31235/osf.io/3nad9) Mapping the Unseen in Practice: Comparing Latent Dirichlet Allocation and BERTopic for Navigating Topic Spaces.  *Sent: 03/08/2024.*
+- [**Pradier, C., Céspedes, L. & Larivière, V. (2025).**]() A smack of all neighbouring languages: How
+multilingual is scholarly communication?.  *Sent: 25/03/2025.*
 
-- [**Céspedes, L., Kozlowski, D., Pradier, C., Holmberg Sainte-Marie, M., Shokida, N. S., Benz, P., Poitras, C., Boudreau Ninkov, A., Ebrahimy, S., Ayeni, P., Filali, S., Li, B. & Larivière, V. (2024).**](https://arxiv.org/abs/2409.10633) Evaluating the Linguistic Coverage of OpenAlex: An Assessment of Metadata Accuracy and Completeness. *Sent: 19/09/2024.*
+- [**Kozlowski, D., Pradier, C., Benz, P., Shokida, N.S., Andersen, J.P. & Larivière, V.(2024).**](https://doi.org/10.31235/osf.io/3nad9) Citation proximus: the role of social and semantic ties in citing behaviour.  *Sent: 23/02/2025.*
 
+- [**Benz, P., Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://doi.org/10.31235/osf.io/3nad9) Mapping the Unseen in Practice: Comparing Latent Dirichlet Allocation and BERTopic for Navigating Topic Spaces.  *Sent: 03/08/2024. Accepted: 22/04/2025*
 
 
 ### Book Chapters
@@ -33,7 +37,17 @@ date: "2024-06-01"
 
 ### Presentations at Science Events
 
-#### Unpublished
+- **Pradier, C., Kozlowski, D., Shokida, N. S. & Larivière, V. (2025, May 5–9).** Quand les réseaux "internationaux" entravent la découvrabilité de la recherche menée par des femmes : le cas de l’Amérique Latine. 92e Congrès de l'Acfas, Montreal, Canada.
+
+- [**Kozlowski, D., Pradier, C. & Benz, P. (2025, February 5–7).**](https://arxiv.org/abs/2408.07003) Generative AI for automatic topic labelling. Workshop on The Use of Generative AI for Science of Science and Higher Education Studies, Lugano, Switzerland.  
+
+- **Pradier, C. (2024, November 11–12).** Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. Scholarly Publishing in the crossroads of academic asymmetries, Mendoza, Argentina.
+
+- [**Pradier, C., Kozlowski, D., Shokida, N. S., Novoa, M., Monroe-White, T. & Larivière, V. (2024, September 18–20).**](https://doi.org/10.5281/zenodo.13947462) On the relationship between gender inequalities and research dissemination patterns in Latin America. 28th International Conference on Science, Technology and Innovation Indicators, Berlin, Germany.  
+
+- [**Kozlowski, D., Lodge, S. N., Pradier, C., Maku Cobla, G., Monroe-White, T., Larivière, V., Ngila, D. & Sugimoto, C. R. (2024, September 18–20).**](https://doi.org/10.5281/zenodo.14003904) Race and gender representation and topical alignments in South African scholarly communications. 28th International Conference on Science, Technology and Innovation Indicators, Berlin, Germany.  
+
+- [**Benz, P., Larivière, V., Kozlowski, D., Shokida, N. S. & Pradier, C. (2024, September 18–20).**](http://dx.doi.org/10.5281/zenodo.14083006) Cognitive diversity and the future of crises: an analysis of the topic space of the biological sciences. 28th International Conference on Science, Technology and Innovation Indicators, Berlin, Germany.  
 
 - **Pradier, C. (2024, May 3).** Le rôle du choix du sujet de recherche dans la structuration des inégalités de genre dans le domaine scientifique en Amérique latine. 15th Information Science Symposium EBSI-SIS, University of Montreal & McGill University, Canada.
 
@@ -52,7 +66,5 @@ date: "2024-06-01"
 - **Kennedy, D., Pradier, C. & Weksler, G. (2019, November 26-27).** Evidencias en torno a la capacidad de reproducción de la población según calificación de la fuerza de trabajo. Argentina. 2016-2019. XVI Conference on Labour Market and Equity in Argentina, ICI-UNGS, Buenos Aires.
 
 - **Kennedy, D., Pradier, C. & Weksler, G. (2019, September 6-7).** Hacia nuevos indicadores en torno a las condiciones de reproducción de la fuerza de trabajo según diferentes subjetividades productivas: la incidencia de la sobreocupación y la precariedad en la Argentina actual. I Conference on Feminist Economics - XII Conference on Heterodox Economics, Faculty of Economic Sciences - National University of Cordoba, Cordoba.
-
-#### Published
 
 - **Kennedy, D., Pradier, C. & Weksler, G. (2019, August 7-9).** Hacia nuevas evidencias en torno a las condiciones de reproducción de la fuerza de trabajo en Argentina. Situación actual y perspectivas. XIV National Congress of Labor Studies, ASET, Buenos Aires. ISBN: 978-987-47-3360-3
