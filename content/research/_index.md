@@ -23,7 +23,7 @@ date: "2024-06-01"
 
 #### Under review
 
-- [**Pradier, C., Céspedes, L. & Larivière, V. (2025).**]() A smack of all neighbouring languages: How
+- [**Pradier, C., Céspedes, L. & Larivière, V. (2025).**](https://arxiv.org/abs/2504.21100) A smack of all neighbouring languages: How
 multilingual is scholarly communication?.  *Sent: 25/03/2025.*
 
 - [**Kozlowski, D., Pradier, C., Benz, P., Shokida, N.S., Andersen, J.P. & Larivière, V.(2024).**](https://doi.org/10.31235/osf.io/3nad9) Citation proximus: the role of social and semantic ties in citing behaviour.  *Sent: 23/02/2025.*
