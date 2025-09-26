@@ -19,6 +19,7 @@ tags:
 - R
 - shinyapps
 title: languages in science
+weight: 4
 ---
 
 ![languages in science](featured-hex.png)

@@ -19,6 +19,7 @@ tags:
 - R
 - shinyapps
 title: science for whom?
+weight: 3
 ---
 
 ![science for whom?](featured-hex.png)

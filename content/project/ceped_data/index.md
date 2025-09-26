@@ -19,6 +19,7 @@ tags:
 - R
 - shinyapps
 title: ceped-data
+weight: 6
 ---
 
 ![ceped data](logo_ceped.png)

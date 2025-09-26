@@ -20,6 +20,7 @@ tags:
 - R
 - shinyapps
 title: ecofemidata shinyapp
+weight: 2
 ---
 
 ![ecofemidata app](Ecofemidata_logo.png)

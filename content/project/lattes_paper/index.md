@@ -19,6 +19,7 @@ tags:
 - R
 - shinyapps
 title: indexation inequalities
+weight: 5
 ---
 
 ![indexation inequalities](featured-hex.png)
