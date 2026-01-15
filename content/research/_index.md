@@ -8,6 +8,12 @@ date: "2024-06-01"
 
 ### Journal Articles
 
+- [**Pradier, C., Céspedes, L. & Larivière, V. (2026).**](https://arxiv.org/abs/2504.21100) How multilingual is scholarly communication?
+Mapping the global distribution of languages in publications and citations.  *Journal of the Association for Information Science and Technology*. http://doi.org/10.1002/asi.70055 <br>
+<small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/languages_app/)</small>
+
+- [**Kozlowski, D., Pradier, C., Benz, P., Shokida, N.S., Andersen, J.P. & Larivière, V. (2026).**](https://doi.org/10.1371/journal.pone.0335366) Citation proximus: the role of social and semantic ties in citing behaviour.  *PLOS ONE*, 20(10), e0335366. https://doi.org/10.1371/journal.pone.0335366 <br>
+
 - [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2025).**](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24972) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Journal of the Association for Information Science and Technology*, 76(5), 790–802. https://doi.org/10.1002/asi.24972 <br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/latam_app/)</small>
 
@@ -25,11 +31,8 @@ date: "2024-06-01"
 
 #### Under review
 
-- [**Pradier, C., Céspedes, L. & Larivière, V. (2025).**](https://arxiv.org/abs/2504.21100) A smack of all neighbouring languages: How
-multilingual is scholarly communication?.  *Sent: 25/03/2025.*
-<small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/languages_app/)</small>
-
-- [**Kozlowski, D., Pradier, C., Benz, P., Shokida, N.S., Andersen, J.P. & Larivière, V. (2025).**](https://doi.org/10.31235/osf.io/3nad9) Citation proximus: the role of social and semantic ties in citing behaviour.  *Sent: 23/02/2025.*
+- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025).** Language hierarchies and
+gender inequalities: the coverage of OpenAlex and the Web of Science.  *Sent: 27/10/2025.*
 
 - **Kozlowski, D., Pradier, C., Maku Cobla, G., Monroe-White, T., Redelinghuys, H., Ngila, D., Larivière, V. & Sugimoto, C.R. (2025).** Race and gender representation and topical alignments in South African scholarly publishing.  *Sent: 12/08/2025.*
 

@@ -29,7 +29,8 @@ weight: 4
 
 ### Understand our research.
 
-This app provides an interactive platform to explore the results of the article: [A smack of all neighbouring languages: How multilingual is scholarly communication?]( https://arxiv.org/abs/2504.21100)
+This app provides an interactive platform to explore the results of the article: [How multilingual is scholarly communication?
+Mapping the global distribution of languages in publications and citations?](https://arxiv.org/abs/2504.21100)
 
 
 
