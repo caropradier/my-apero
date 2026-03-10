@@ -30,7 +30,7 @@ weight: 4
 ### Understand our research.
 
 This app provides an interactive platform to explore the results of the article: [How multilingual is scholarly communication?
-Mapping the global distribution of languages in publications and citations?](https://arxiv.org/abs/2504.21100)
+Mapping the global distribution of languages in publications and citations?](http://doi.org/10.1002/asi.70055)
 
 
 
