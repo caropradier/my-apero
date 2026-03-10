@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I'm a PhD Candidate at the École de bibliothéconomie et des sciences de l'information (Université de Montréal). <br> I study gender inequalities in science.
+description: I'm a PhD Candidate at the École de bibliothéconomie et des sciences de l'information (Université de Montréal), working with [Vincent Larivière](https://unesco.ebsi.umontreal.ca/en/vincent-lariviere/). 
 image_left: true
 images:
 - img/camuf.jpg
