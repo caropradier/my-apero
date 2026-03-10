@@ -8,7 +8,7 @@ date: "2024-06-01"
 
 ### Journal Articles
 
-- [**Pradier, C., Céspedes, L. & Larivière, V. (2026).**](https://arxiv.org/abs/2504.21100) How multilingual is scholarly communication?
+- [**Pradier, C., Céspedes, L. & Larivière, V. (2026).**](http://doi.org/10.1002/asi.70055) How multilingual is scholarly communication?
 Mapping the global distribution of languages in publications and citations.  *Journal of the Association for Information Science and Technology*. http://doi.org/10.1002/asi.70055 <br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/languages_app/)</small>
 
