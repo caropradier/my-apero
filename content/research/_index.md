@@ -31,6 +31,9 @@ Mapping the global distribution of languages in publications and citations.  *Jo
 
 #### Under review
 
+- **Pradier, C., Céspedes, L., van Bellen, S., Alperin, J.P., & Larivière, V. (2026).** Who needs national
+journals? Dissemination Strategies in Canadian Scholarly Communication. *Sent: 13/02/2026.*
+
 - **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025).** Language hierarchies and
 gender inequalities: the coverage of OpenAlex and the Web of Science.  *Sent: 27/10/2025.*
 
