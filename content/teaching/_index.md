@@ -4,7 +4,8 @@ layout: single
 date: "2024-06-01"
 ---
 
-- **2025** Bibliométrie et communication savante (SCI6304) ,Graduate Teaching Assistant, School of Library and Information Science - Faculty of Arts and Science - University of Montreal
+- **2026** Mapping Large Text Corpora: Scientific Research, Media Debate, and Policy Documents, Guest lecturer, Doctoral Program in Digital Studies - University of Geneva
+- **2025** Bibliometrics and Scholarly Communication (SCI6304), Graduate Teaching Assistant, School of Library and Information Science - Faculty of Arts and Science - University of Montreal
 - **2024** Critical Computational Social Sciences <span style="background-color: yellow;">[Open Materials](https://critcss.github.io/CCSS/)</span>
 - **2022–Present** Introduction to programming with a feminist perspective, Teacher, ecofeminita <span style="background-color: yellow;">[Open Materials](https://github.com/caropradier/Curso-Ecofemidata)</span>
 - **2024** V STS Summer School - II Cyborg Methods School, Teacher, Science, Technology and Society Lab, Latin-American Faculty of Social Sciences, Ecuador

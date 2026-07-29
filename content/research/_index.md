@@ -8,18 +8,25 @@ date: "2024-06-01"
 
 ### Journal Articles
 
+- **Pradier, C., Céspedes, L., van Bellen, S., Alperin, J.P., & Larivière, V. (2026).** Who needs national journals? Dissemination Strategies in Canadian Scholarly Communication. *Accepted for publication in The Canadian Journal of Information and Library Science*, In press.<br>
+<small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/canada_science/)</small>
+
+- [**Kozlowski, D., Pradier, & C., Benz, P. (2025).**](https://doi.org/10.5206/cjils-rcsib.v49i2.24099) Generative AI for automatic topic labelling.  *The Canadian Journal of Information and Library Science*, 49(2), 26-34. 
+
 - [**Pradier, C., Céspedes, L. & Larivière, V. (2026).**](http://doi.org/10.1002/asi.70055) How multilingual is scholarly communication?
-Mapping the global distribution of languages in publications and citations.  *Journal of the Association for Information Science and Technology*. http://doi.org/10.1002/asi.70055 <br>
+Mapping the global distribution of languages in publications and citations.  *Journal of the Association for Information Science and Technology*, 77(5), 699-713. <br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/languages_app/)</small>
 
-- [**Kozlowski, D., Pradier, C., Benz, P., Shokida, N.S., Andersen, J.P. & Larivière, V. (2026).**](https://doi.org/10.1371/journal.pone.0335366) Citation proximus: the role of social and semantic ties in citing behaviour.  *PLOS ONE*, 20(10), e0335366. https://doi.org/10.1371/journal.pone.0335366 <br>
+- [**Braiden, H., Pradier, C., & Larivière, V. (2026).**](https://gispoint.de/gisopen-paper/9383-capacity-building-a-bibliometric-study-on-research-in-digital-landscape-architecture.html) Capacity Building: A Bibliometric Study on Research in [Digital] Landscape Architecture.  *Journal of Digital Landscape Architecture*, 11. <br>
 
-- [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2025).**](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24972) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Journal of the Association for Information Science and Technology*, 76(5), 790–802. https://doi.org/10.1002/asi.24972 <br>
+- [**Kozlowski, D., Pradier, C., Benz, P., Shokida, N.S., Andersen, J.P. & Larivière, V. (2026).**](https://doi.org/10.1371/journal.pone.0335366) Citation proximus: the role of social and semantic ties in citing behaviour.  *PLOS ONE*, 20(10), e0335366.  <br>
+
+- [**Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2025).**](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24972) Science for whom? The influence of the regional academic circuit on gender inequalities in Latin America. *Journal of the Association for Information Science and Technology*, 76(5), 790–802. <br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/latam_app/)</small>
 
-- [**Benz, P., Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://doi.org/10.1007/s11192-025-05339-6) Mapping the Unseen in Practice: Comparing Latent Dirichlet Allocation and BERTopic for Navigating Topic Spaces.  *Scientometrics*, 130(7), 3839–3870. https://doi.org/10.1007/s11192-025-05339-6
+- [**Benz, P., Pradier, C., Kozlowski, D., Shokida, N.S. & Larivière, V. (2024).**](https://doi.org/10.1007/s11192-025-05339-6) Mapping the Unseen in Practice: Comparing Latent Dirichlet Allocation and BERTopic for Navigating Topic Spaces.  *Scientometrics*, 130(7), 3839–3870. 
 
-- [**Céspedes, L., Kozlowski, D., Pradier, C., Holmberg Sainte-Marie, M., Shokida, N. S., Benz, P., Poitras, C., Boudreau Ninkov, A., Ebrahimy, S., Ayeni, P., Filali, S., Li, B. & Larivière, V. (2025).**](http://doi.org/10.1002/asi.24979) Evaluating the Linguistic Coverage of OpenAlex: An Assessment of Metadata Accuracy and Completeness. *Journal of the Association for Information Science and Technology*, 76(6), 884–895. http://doi.org/10.1002/asi.24979
+- [**Céspedes, L., Kozlowski, D., Pradier, C., Holmberg Sainte-Marie, M., Shokida, N. S., Benz, P., Poitras, C., Boudreau Ninkov, A., Ebrahimy, S., Ayeni, P., Filali, S., Li, B. & Larivière, V. (2025).**](http://doi.org/10.1002/asi.24979) Evaluating the Linguistic Coverage of OpenAlex: An Assessment of Metadata Accuracy and Completeness. *Journal of the Association for Information Science and Technology*, 76(6), 884–895. 
 
 - [**Kennedy, D., Lastra, F. & Pradier, C. (2024).**](https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe163) Las condiciones de reproducción de la fuerza de trabajo argentina. Un análisis preliminar del v́ınculo entre el gasto de los hogares y la inserción laboral de sus miembros a partir de los datos de la ENGHo (2017-2018). *Revista Cuestiones de Sociología*, (29), e163. ISSN: 2346-8904
 
@@ -31,21 +38,23 @@ Mapping the global distribution of languages in publications and citations.  *Jo
 
 #### Under review
 
-- **Pradier, C., Céspedes, L., van Bellen, S., Alperin, J.P., & Larivière, V. (2026).** Who needs national
-journals? Dissemination Strategies in Canadian Scholarly Communication. *Sent: 13/02/2026.*
-
-- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025).** Language hierarchies and
-gender inequalities: the coverage of OpenAlex and the Web of Science.  *Sent: 27/10/2025.*
+- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025).** Language hierarchies and gender inequalities: the coverage of OpenAlex and the Web of Science.  *Sent: 27/10/2025.*
 
 - **Kozlowski, D., Pradier, C., Maku Cobla, G., Monroe-White, T., Redelinghuys, H., Ngila, D., Larivière, V. & Sugimoto, C.R. (2025).** Race and gender representation and topical alignments in South African scholarly publishing.  *Sent: 12/08/2025.*
-
-- [**Kozlowski, D., Pradier, & C., Benz, P. (2025).**](https://arxiv.org/abs/2408.07003) Generative AI for automatic topic labelling.  *Sent: 27/08/2025.*
 
 ### Book Chapters
 
 - [**Pradier, C. (2023).**](https://biblio.unaj.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=10071) El trabajo invisible. Sesgos de género en la medición del producto y el análisis del mercado de trabajo In Graña, J. (Ed.) *Cuentas Nacionales e indicadores socioeconómicos: metodologías, debates críticos y aplicaciones a la economía argentina* (pp. 385-400). Florencio Varela: CONUSUR.
 
-### Presentations at Science Events
+### Scientific Conferences and Events
+
+- **Spoon, K., Souto-Maior, J., Mackenna, B., Chodrow, P., Chavez, C., & Pradier, C. (2026, July 28-31).** Identifying turning points in early adult life. *12th International Conference on Computational Social Science.* Burlington, USA.
+
+- [**Pradier, C. (2026, May 27).**](https://www.helsinki-initiative.org/en/events/6th-helsinki-initiative-webinar-multilingualism-scholarly-communication) How multilingual is scholarly communication?. *6th Helsinki Initiative Webinar on Multilingualism in Scholarly Communication.* 
+
+- **Complex Networks Winter Workshop** (2025, December 14-19). Quebec, Canada. 
+
+- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025, December 1-2).** Language hierarchies and gender inequalities: the article coverage of OpenAlex and the Web of Science in Brazil. *Workshop on Open science and research assessment reforms under scrutiny: global dilemmas and academic asymmetries.* Mendoza, Argentina.
 
 - [**Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025, September 5-7).**](https://osf.io/preprints/socarxiv/msbnu_v1) Occluded Topics: The hidden half of Brazilian research. *29th Annual International Conference on Science and Technology Indicators.* Bristol, England.
 
@@ -53,11 +62,15 @@ gender inequalities: the coverage of OpenAlex and the Web of Science.  *Sent: 27
 
 - **Dacos, M., Papp, N., Karatzia, M., Kozlowski, D., Pradier, C., & Larivière, V. (2025, June 30-July 2).** How can metaresearch help improve Open Science policies? The Global Research Initiative on Open Science (GRIOS). *Metascience 2025 Conference.* London, England.
 
+- **Scientific Committee Member** Bibliometrics and Research Impact Community Conference (2025, June 4-5). Montreal, Canada. 
+
 - **Céspedes, L., Pradier, C., &  Larivière, V.  (2025, June 16-18).** Linguistic distribution of publications and references at the crossroads of Dimensions and OpenAlex. *International Conference on the Science of Science and Innovation.* Copenhaguen, Denmark.
 
 - **Kozlowski, D., Pradier, C., Larivière, V., Andersen, J.P., & Benz, P. (2025, June 16-18).** Citation proximus: the role of social and semantic ties in citing behaviour. *International Conference on the Science of Science and Innovation.* Copenhaguen, Denmark.
 
 - **Pradier, C., Kozlowski, D., Shokida, N. S. & Larivière, V. (2025, May 5–9).** Quand les réseaux "internationaux" entravent la découvrabilité de la recherche menée par des femmes : le cas de l’Amérique Latine. *92e Congrès de l'Acfas.* Montreal, Canada.
+
+- **Pradier, C. (2025, February 12).** Topic spaces. *Official Launch of the Quebec Research Chair on the Discoverability of Scientific Content in French*, Montreal, Canada.
 
 - [**Kozlowski, D., Pradier, C. & Benz, P. (2025, February 5–7).**](https://arxiv.org/abs/2408.07003) Generative AI for automatic topic labelling. *Workshop on The Use of Generative AI for Science of Science and Higher Education Studies.* Lugano, Switzerland.  
 
