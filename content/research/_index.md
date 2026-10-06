@@ -8,8 +8,13 @@ date: "2024-06-01"
 
 ### Journal Articles
 
-- **Pradier, C., Céspedes, L., van Bellen, S., Alperin, J.P., & Larivière, V. (2026).** Who needs national journals? Dissemination Strategies in Canadian Scholarly Communication. *Accepted for publication in The Canadian Journal of Information and Library Science*, In press.<br>
+- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2026).** Language hierarchies and gender inequalities: the coverage of OpenAlex and the Web of Science.  *Research Evaluation*, In press. <br>
+<small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/lattes_app)</small>
+
+- [**Pradier, C., Céspedes, L., van Bellen, S., Alperin, J.P., & Larivière, V. (2026).**](https://doi.org/10.5206/cjils-rcsib.v49i2.24726) Who needs national journals? Dissemination Strategies in Canadian Scholarly Communication. *The Canadian Journal of Information and Library Science*, 49(2), 49–69.<br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/canada_science/)</small>
+
+- **Benz, P., Céspedes, L., Méndez-Isla, M., Pradier, C., Shokida, N.S., Larivière, V., & Kozlowski,D. (2026).** The Imprint of a Few:  Editorial Authority and  Epistemic Inequalities in Elite Biology Journals. *The Sociological Review*, In press. 
 
 - [**Kozlowski, D., Pradier, & C., Benz, P. (2025).**](https://doi.org/10.5206/cjils-rcsib.v49i2.24099) Generative AI for automatic topic labelling.  *The Canadian Journal of Information and Library Science*, 49(2), 26-34. 
 
@@ -38,8 +43,6 @@ Mapping the global distribution of languages in publications and citations.  *Jo
 
 #### Under review
 
-- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025).** Language hierarchies and gender inequalities: the coverage of OpenAlex and the Web of Science.  *Sent: 27/10/2025.*
-
 - **Kozlowski, D., Pradier, C., Maku Cobla, G., Monroe-White, T., Redelinghuys, H., Ngila, D., Larivière, V. & Sugimoto, C.R. (2025).** Race and gender representation and topical alignments in South African scholarly publishing.  *Sent: 12/08/2025.*
 
 ### Book Chapters
@@ -47,6 +50,8 @@ Mapping the global distribution of languages in publications and citations.  *Jo
 - [**Pradier, C. (2023).**](https://biblio.unaj.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=10071) El trabajo invisible. Sesgos de género en la medición del producto y el análisis del mercado de trabajo In Graña, J. (Ed.) *Cuentas Nacionales e indicadores socioeconómicos: metodologías, debates críticos y aplicaciones a la economía argentina* (pp. 385-400). Florencio Varela: CONUSUR.
 
 ### Scientific Conferences and Events
+
+- **Pradier, C., Kozlowski, D., & Larivière, V. (2026, September 9-11).** The gender gap in citations is increasing. *30th Annual  Conference on Science and Technology Indicators*, Antwerp, Belgium. 
 
 - **Spoon, K., Souto-Maior, J., Mackenna, B., Chodrow, P., Chavez, C., & Pradier, C. (2026, July 28-31).** Identifying turning points in early adult life. *12th International Conference on Computational Social Science.* Burlington, USA.
 
