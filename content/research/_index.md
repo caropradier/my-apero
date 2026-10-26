@@ -8,7 +8,7 @@ date: "2024-06-01"
 
 ### Journal Articles
 
-- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2026).** Language hierarchies and gender inequalities: the coverage of OpenAlex and the Web of Science.  *Research Evaluation*, In press. <br>
+- [**Pradier, C., Kozlowski, D., Mazoni, A. F., & Larivière, V. (2026).**](https://doi.org/10.1093/reseval/rvag062) Language hierarchies and gender inequalities: the coverage of OpenAlex and the Web of Science.  *Research Evaluation*, 35, rvag062. <br>
 <small>Explore the article's [*interactive visualizations*](https://vlab.ebsi.umontreal.ca/lattes_app)</small>
 
 - [**Pradier, C., Céspedes, L., van Bellen, S., Alperin, J.P., & Larivière, V. (2026).**](https://doi.org/10.5206/cjils-rcsib.v49i2.24726) Who needs national journals? Dissemination Strategies in Canadian Scholarly Communication. *The Canadian Journal of Information and Library Science*, 49(2), 49–69.<br>
@@ -59,9 +59,9 @@ Mapping the global distribution of languages in publications and citations.  *Jo
 
 - **Complex Networks Winter Workshop** (2025, December 14-19). Quebec, Canada. 
 
-- **Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025, December 1-2).** Language hierarchies and gender inequalities: the article coverage of OpenAlex and the Web of Science in Brazil. *Workshop on Open science and research assessment reforms under scrutiny: global dilemmas and academic asymmetries.* Mendoza, Argentina.
+- **Pradier, C., Kozlowski, D., Mazoni, A. F., & Larivière, V. (2025, December 1-2).** Language hierarchies and gender inequalities: the article coverage of OpenAlex and the Web of Science in Brazil. *Workshop on Open science and research assessment reforms under scrutiny: global dilemmas and academic asymmetries.* Mendoza, Argentina.
 
-- [**Pradier, C., Kozlowski, D., Fernandes Mazoni, A., & Larivière, V. (2025, September 5-7).**](https://osf.io/preprints/socarxiv/msbnu_v1) Occluded Topics: The hidden half of Brazilian research. *29th Annual International Conference on Science and Technology Indicators.* Bristol, England.
+- [**Pradier, C., Kozlowski, D., Mazoni, A. F., & Larivière, V. (2025, September 5-7).**](https://osf.io/preprints/socarxiv/msbnu_v1) Occluded Topics: The hidden half of Brazilian research. *29th Annual International Conference on Science and Technology Indicators.* Bristol, England.
 
 - [**Shokida, N.S., Pradier, C., Marteau, É., Kozlowski, D., Céspedes, L., & Larivière, V. (2025, September 5-7)**](https://osf.io/preprints/socarxiv/wkvs5_v2) Keyword Newspeak: Trump’s Orwellian Censorship of DEI in Science. *29th Annual International Conference on Science and Technology Indicators.* Bristol, England.
 
@@ -106,3 +106,22 @@ Mapping the global distribution of languages in publications and citations.  *Jo
 - **Kennedy, D., Pradier, C. & Weksler, G. (2019, September 6-7).** Hacia nuevos indicadores en torno a las condiciones de reproducción de la fuerza de trabajo según diferentes subjetividades productivas: la incidencia de la sobreocupación y la precariedad en la Argentina actual. *I Conference on Feminist Economics - XII Conference on Heterodox Economics, Faculty of Economic Sciences.* National University of Cordoba, Cordoba, Argentina.
 
 - **Kennedy, D., Pradier, C. & Weksler, G. (2019, August 7-9).** Hacia nuevas evidencias en torno a las condiciones de reproducción de la fuerza de trabajo en Argentina. Situación actual y perspectivas. *XIV National Congress of Labor Studies (ASET).* Buenos Aires, Argentina. ISBN: 978-987-47-3360-3
+
+### Service - reviewing for:
+
+- Nature
+
+- Journal of the Association for Information Science and Technology
+
+- Quantitative Science Studies
+
+- Research Evaluation
+
+- PLoS ONE
+
+- Scientometrics
+
+- Acta Sociologica
+
+
+
